@@ -1,0 +1,28 @@
+name: house
+favicon: null
+layout_spectrum: 0.44584182975813746
+typography_spectrum: 0.5782830254174769
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.46756639797240496
+  lightness: 0.2625542306341231
+  saturation: 0.7739569786936045
+  rhythmicContrast: 0.5042969316709787
+purpose: []
