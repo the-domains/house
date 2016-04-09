@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[house]]></title>
+        <description><![CDATA[house]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 09 Apr 2016 05:58:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Magical Hobbit - Like Eco Cave House]]></title>
+            <description><![CDATA[<article><h1>Magical Hobbit - Like Eco Cave House</h1><p>Nicknamed the Underhill, this eco-friendly house (or cave) is the result of 40 years of passion and hard work. It's an incredible house that anyone would be lucky to live in! Located in the hillside, the Underhill is surrounded by beautiful scenery.</p><img src="http://highoctanehumor.com/wp-content/uploads/2015/12/20151225-161416.jpg"></article>]]></description>
+            <link>http://highoctanehumor.com/magical-hobbit-like-eco-cave-house/</link>
+            <guid isPermaLink="false">86647559-e9f9-4b34-a5d7-3340a04c7e7f</guid>
+            <pubDate>Sat, 09 Apr 2016 05:57:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
