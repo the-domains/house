@@ -1,11 +1,8 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.costford.com'
-  name: Costford
-  favicon: 'http://www.costford.com/favicon-128.png'
-  domain: www.costford.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
 keywords:
   - costford
   - cds
@@ -17,18 +14,25 @@ keywords:
   - thrissur
   - co-founder
   - attribution-noncommercial-sharealike
-description: 'COSTFORD : Promotes, Propagates and Popularizes Alternative Technologies and Organizational Forms For Social Transformation'
-inLanguage: en
+description: >-
+  COSTFORD : Promotes, Propagates and Popularizes Alternative Technologies and
+  Organizational Forms For Social Transformation
+datePublished: '2016-07-05T03:39:52.422Z'
+dateModified: '2016-07-05T03:39:18.704Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.costford.com/index.html'
 title: COSTFORD - The Centre of Science and Technology for Rural Development
-datePublished: '2016-04-09T07:19:39.750Z'
-dateModified: '2016-04-09T07:18:01.751Z'
-sourcePath: _posts/2016-04-09-costford-the-centre-of-science-and-technology-for-rural-de.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
+sourcePath: >-
+  _posts/2016-04-09-costford-the-centre-of-science-and-technology-for-rural-de.md
+authors: []
+publisher:
+  name: Costford
+  domain: www.costford.com
+  url: 'http://www.costford.com'
+  favicon: 'http://www.costford.com/favicon-128.png'
+starred: false
+url: costford-the-centre-of-science-and-technology-for-rural-de/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
