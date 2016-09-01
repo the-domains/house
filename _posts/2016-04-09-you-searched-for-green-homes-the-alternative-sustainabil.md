@@ -25,7 +25,8 @@ related: []
 publisher:
   url: 'http://www.thealternative.in'
   name: The Alternative
-  favicon: 'http://13462-presscdn-0-60.pagely.netdna-cdn.com/wp-content/themes/sattva/images/favicon.ico'
+  favicon: >-
+    http://13462-presscdn-0-60.pagely.netdna-cdn.com/wp-content/themes/sattva/images/favicon.ico
   domain: www.thealternative.in
 keywords:
   - skylights
@@ -38,18 +39,22 @@ keywords:
   - babu
   - nourishes
   - mukherjee
-description: 'Instead of investing money into materials to create a sustainable and green homes, why not use the materials that are readily available to you - and most of...'
+description: >-
+  Instead of investing money into materials to create a sustainable and green
+  homes, why not use the materials that are readily available to you - and most
+  of...
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.thealternative.in/?s=green+homes'
-title: You searched for green homes - The Alternative - Sustainability as a way of life
-datePublished: '2016-04-09T06:06:06.355Z'
-dateModified: '2016-04-09T06:03:45.205Z'
+title: >-
+  You searched for green homes - The Alternative - Sustainability as a way of
+  life
+datePublished: '2016-08-30T05:20:38.848Z'
+dateModified: '2016-08-30T05:20:37.883Z'
 sourcePath: _posts/2016-04-09-you-searched-for-green-homes-the-alternative-sustainabil.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+via: {}
+starred: false
+url: you-searched-for-green-homes-the-alternative-sustainabil/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
