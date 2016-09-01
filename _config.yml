@@ -1,19 +1,4 @@
-name: house
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.5782830254174769
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#b9b9b9'
@@ -25,4 +10,23 @@ color:
   lightness: 0.375
   saturation: 0.3125
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: house
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: About Us
+    id: c9968203-d25a-4cd7-b0b2-f4f47b5deb48
+    type: content
+favicon: null
 purpose: []
